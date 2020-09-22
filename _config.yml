@@ -38,6 +38,10 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
+  - title                                 : New!!!
+    description                           : オフタイマー機能を追加しました！
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : ライト（懐中電灯）
     description                           : カメラのLEDライトを使用して、暗闇を照らすことができます。
     fontawesome_icon_name                 : lightbulb
