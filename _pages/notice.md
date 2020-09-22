@@ -3,7 +3,7 @@ layout: page
 title: お知らせ
 include_in_header: false
 icon_only_header: true
-date: 2020-09-18
+date: 2020-09-18 18:00
 ---
 # お知らせ
 2020/09/18
