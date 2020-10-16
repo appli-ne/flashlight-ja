@@ -2,10 +2,17 @@
 layout: page
 title: リリースノート
 include_in_header: false
-date: 2020-09-18 19:00
+date: 2020-10-16 19:00
 ---
 
 # `リリースノート`
+<br>
+
+## **Version 1.1.1**
+2020/10/16
+- オフタイマー機能のヘルプ追加
+- 軽微な不具合の修正
+
 <br>
 
 ## **Version 1.1.0**

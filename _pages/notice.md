@@ -3,15 +3,15 @@ layout: page
 title: お知らせ
 include_in_header: false
 icon_only_header: true
-date: 2020-09-18 18:00
+date: 2020-10-16 19:00
 ---
 # お知らせ
-2020/09/18
+2020/10/16
 <br>
 <br>
-バージョン 1.1.0
+バージョン 1.1.1
 <br>
-オフタイマー機能を追加しました。
+オフタイマー機能のヘルプを追加しました。
 <br>
 [https://appli-ne.github.io/flashlight-ja/](https://appli-ne.github.io/flashlight-ja/)<br>
 <br>
