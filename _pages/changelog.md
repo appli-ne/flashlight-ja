@@ -2,10 +2,18 @@
 layout: page
 title: リリースノート
 include_in_header: false
-date: 2020-12-24 15:00
+date: 2021-01-18 10:00
 ---
 
 # `リリースノート`
+<br>
+
+## **Version 1.4.0**
+2021/01/18
+- メニューUIを見やすく変更
+- オフタイマーUIを丸く変更
+
+---
 <br>
 
 ## **Version 1.3.0**
