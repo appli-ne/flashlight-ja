@@ -1,5 +1,5 @@
 #page title
-page_title                                : ライト（懐中電灯）アプリ - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : 【ライト + タイマーアプリ無料】懐中電灯アプリ（オフタイマー付き） - appli-ne（アプリね） # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                           # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -14,7 +14,7 @@ lang_name                                 : English
 lang_link                                 : ../flashlight/
 
 app_icon                                  : assets/ic_launcher.png                    # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : ライト（懐中電灯）                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : ライト + タイマー                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : 無料                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : スマホがライト・懐中電灯になるアプリです！<br>無料で簡単に使えます！
 
@@ -39,6 +39,10 @@ youtube_username                          :
 features                                  :
 
   - title                                 : New!!!
+    description                           : Android 11 対応<br>ダークテーマに対応しました！
+    fontawesome_icon_name                 : info-circle
+
+  - title                                 : オフタイマー
     description                           : オフタイマー機能を追加しました！
     fontawesome_icon_name                 : info-circle
 
