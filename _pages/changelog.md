@@ -2,10 +2,17 @@
 layout: page
 title: リリースノート
 include_in_header: false
-date: 2021-04-01 22:00
+date: 2021-04-09 17:00
 ---
 
 # `リリースノート`
+<br>
+
+## **Version 1.5.2**
+2021/04/09
+- 誤字修正
+
+---
 <br>
 
 ## **Version 1.5.1**
