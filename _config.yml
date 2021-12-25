@@ -38,10 +38,6 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : New!!!
-    description                           : Android 11 対応<br>ダークテーマに対応しました！
-    fontawesome_icon_name                 : info-circle
-
   - title                                 : オフタイマー
     description                           : オフタイマー機能を追加しました！
     fontawesome_icon_name                 : info-circle
@@ -51,11 +47,15 @@ features                                  :
     fontawesome_icon_name                 : lightbulb
     
   - title                                 : 画面バックライト
-    description                           : 画面のバックライトを使用して、暗闇を照らすことができます。
+    description                           : 画面のバックライトを使用して、暗闇を照らすことができます。<br>スクリーンライト点灯時の明るさを調整できます。
     fontawesome_icon_name                 : mobile-alt
 
+  - title                                 : その他
+    description                           : ダークテーマに対応しました！
+    fontawesome_icon_name                 : info-circle
+
   - title                                 : 対応 OS
-    description                           : Android 6.0 以降
+    description                           : Android 6.0 以降<br>Android 12 対応
     fontawesome_icon_name                 : mobile-alt
 
   - title                                 : # New Feature Title
