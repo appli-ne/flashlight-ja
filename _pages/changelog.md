@@ -7,6 +7,13 @@ include_in_header: false
 # `リリースノート`
 <br>
 
+## **Version 1.12.1**
+2025/10/16
+- 軽微な不具合の修正
+
+---
+<br>
+
 ## **Version 1.12.0**
 2025/10/03
 - Edge-to-edge対応
